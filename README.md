@@ -1,7 +1,7 @@
 ## Oiii ! Eu sou o Evison 👋
 
 
-- 🌱 Estou atualmente estudando desenvolvimento Front-end
+- 🌱 Atualmente estou estudando desenvolvimento Front-end
 
 <div align="center">
   <a href="https://github.com/evisonpacheco">
