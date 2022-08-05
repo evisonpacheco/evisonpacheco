@@ -2,6 +2,7 @@
 
 
 - 🌱 Graduando em Sistemas de Informação e atualmente entusiasta no desenvolvimento Front-end
+- 🖥️ Estagiário de Desenvolvimento na empresa PontoTEL
 
 <div align="center">
   <a href="https://github.com/evisonpacheco">
