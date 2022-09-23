@@ -1,8 +1,8 @@
 ## Oiii ! Eu sou o Evison 👋
 
 
-- 🌱 Graduando em Sistemas de Informação e atualmente entusiasta no desenvolvimento Front-end
-- 🖥️ Estagiário de Desenvolvimento
+- 🌱 Graduando em Sistemas de Informação e atualmente estudante de desenvolvimento Back-end
+- 🖥️ Estagiário de Desenvolvimento Back-end
 
 <div align="center">
   <a href="https://github.com/evisonpacheco">
