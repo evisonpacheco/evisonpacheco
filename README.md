@@ -1,7 +1,7 @@
 ## Oiii ! Eu sou o Evison 👋
 
 
-- 🌱 Graduando em Sistemas de Informação e atualmente estudante de desenvolvimento Back-end
+- 🌱 Graduando em Sistemas de Informação
 - 🖥️ Estagiário de Desenvolvimento Back-end
 
 <div align="center">
