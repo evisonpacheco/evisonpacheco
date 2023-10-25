@@ -2,7 +2,7 @@
 
 
 - 🌱 Graduando em Sistemas de Informação
-- 🖥️ Estagiário de Desenvolvimento Back-end
+- 🖥️ Estudante de Desenvolvimento Front-End
 
 <div align="center">
   <a href="https://github.com/evisonpacheco">
